@@ -1,0 +1,11 @@
+EmployeeID,Department,Education_Level,Performance_Rating,Satisfaction_Score
+101,Sales,High School,Low,Unhappy
+102,IT,Bachelor's,Average,Neutral
+103,HR,Master's,High,Happy
+104,Marketing,PhD,Exceptional,Very Happy
+105,IT,Bachelor's,High,Happy
+106,Sales,High School,Low,Unhappy
+107,HR,Master's,Average,Neutral
+108,IT,PhD,Exceptional,Very Happy
+109,Marketing,Bachelor's,Low,Unhappy
+110,Sales,Master's,High,Happy
